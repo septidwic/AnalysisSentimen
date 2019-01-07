@@ -1,0 +1,12 @@
+> head(jokowiPol, 20)
+" [1] ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"""
+" [8] ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"""
+"[15] ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"""
+> head(prabowoPol, 20)
+" [1] ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"""
+" [8] ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"" ""positive"""
+"[15] ""positive"" ""positive"" ""negative"" ""negative"" ""positive"" ""positive"""
+> head(pilPol, 20)
+" [1] ""positive"" ""positive"" ""positive"" ""negative"" ""negative"" ""positive"" ""positive"""
+" [8] ""negative"" ""negative"" ""negative"" ""negative"" ""negative"" ""neutral""  ""negative"""
+"[15] ""negative"" ""negative"" ""negative"" ""negative"" ""negative"" ""neutral"" "
